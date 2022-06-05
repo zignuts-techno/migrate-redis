@@ -1,0 +1,14 @@
+{
+  "name": "redis-migrate",
+  "version": "1.0.0",
+  "description": "Script to migrate keys from one redis to another redis server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zignuts",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.1.0"
+  }
+}
